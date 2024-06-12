@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "title": "Solution group",
+    "base_url": "https://www.viosomos.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo": "/images/at24-logo-n.png",
+    "logo_width": "100",
+    "logo_height": "48",
+    "logo_text": "at24"
   },
 
   "settings": {
@@ -19,7 +19,7 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Contáctanos",
     "link": "/contact"
   },
 

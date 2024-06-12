@@ -1,35 +1,35 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
-  image: /images/banner-art.png
+  title: Elegí tu plan de asistencia y asociate
+  content: ¡Es fácil y rápido!
+  image: /images/banner-grua.png
   button:
-    label: "Contact Us"
+    label: "Contáctanos"
     link: "/contact"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: "Aspectos Clave de Nuestro Servicio de Auxilio 24 Horas"
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+  - name: "Respuesta Inmediata"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Nuestro compromiso es asegurar una respuesta rápida y efectiva en cualquier momento del día, garantizando asistencia en menos de 30 minutos tras recibir tu llamada."
+  - name: "Atención Personalizada"
+    icon: "/images/user-clock.svg"
+    content: "Entendemos que cada situación es única. Nuestros especialistas están capacitados para ofrecer una solución adaptada a tus necesidades específicas, a cualquier hora."
+  - name: "Cobertura Amplia"
+    icon: "/images/map.svg"
+    content: "Con presencia en todo el territorio, nuestro servicio de auxilio está disponible en cualquier lugar donde te encuentres, asegurando acceso y asistencia continua."
+  - name: "Asistencia Integral"
+    icon: "/images/toolbox.svg"
+    content: "Desde asistencia mecánica hasta remolque, pasando por servicios médicos de emergencia, ofrecemos un abanico completo de soluciones para cualquier incidencia en la vía."
+  - name: "Tecnología de Vanguardia"
+    icon: "/images/tech.svg"
+    content: "Utilizamos la última tecnología para garantizar un servicio eficiente y seguro, incluyendo sistemas de localización GPS para una llegada rápida a tu ubicación."
+  - name: "Transparencia Total"
+    icon: "/images/checklist.svg"
+    content: "Comprometidos con la claridad, ofrecemos información detallada sobre cada aspecto del servicio brindado, sin cargos ocultos y con total honestidad desde el primer contacto."
 
 # services
 services:

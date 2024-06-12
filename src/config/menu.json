@@ -1,28 +1,20 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Pricing",
+      "name": "Precios",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "FAQ",
+      "name": "Preguntas Frecuentes",
       "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
@@ -30,7 +22,7 @@
       "name": "Company",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         },
         {
@@ -51,7 +43,7 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         }
       ]
@@ -60,7 +52,7 @@
       "name": "Support",
       "menu": [
         {
-          "text": "FAQ",
+          "text": "Preguntas Frecuentes",
           "url": "/faq"
         },
         {
